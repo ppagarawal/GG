@@ -1,2 +1,2 @@
-# GG
-The repository contains all the analysis files for GreedyGame
+# Data analysis
+The repository contains all the analysis files for Data analysis
